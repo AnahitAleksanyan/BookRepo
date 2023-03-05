@@ -5,6 +5,7 @@
         public string Name { get; set; }
         public string Surname { get; set; }
         public DateTime DateOfBirth { get; set; }
+        public Gender Gender { get; set; }
         private int age;
         public int Age
         {
