@@ -1,4 +1,4 @@
-﻿namespace BooksProject
+﻿namespace BooksProject.Enums
 {
     public enum Gender
     {

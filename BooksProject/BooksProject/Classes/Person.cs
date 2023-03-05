@@ -1,4 +1,6 @@
-﻿namespace BooksProject
+﻿using BooksProject.Enums;
+
+namespace BooksProject.Classes
 {
     public class Person
     {
