@@ -20,7 +20,7 @@ namespace BooksProject
             }
             set
             {
-                if (age < 2 && age > 99)
+                if (age > 2 && age < 99)
                 {
                     age = value;
                 }
