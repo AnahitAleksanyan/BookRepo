@@ -1,6 +1,8 @@
-﻿namespace BooksProject
+﻿using BooksProject.Enums;
+
+namespace BooksProject.Classes
 {
-  public  class Book
+    public class Book
     {
         public string Name { get; set; }
 
