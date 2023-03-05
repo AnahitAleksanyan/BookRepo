@@ -9,11 +9,8 @@ namespace BooksProject
     public class Person
     {
         public string Name { get; set; }
-
         public string Surname { get; set; }
-
         public DateTime DateOfBirth { get; set; }
-
         private int age;
         public int Age
         {
@@ -28,9 +25,6 @@ namespace BooksProject
                     age = value;
                 }
             }
-
-
         }
-
     }
 }
